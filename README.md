@@ -2,3 +2,4 @@
 some text!!!!
 new text
 new line
+without conflict
